@@ -7,3 +7,7 @@ Do something changed // Git stil keep this on the log graph in one line if we pu
 
 // I am another user try to push somthing before the 1st person
 I changed and try to commit without pull first
+
+
+I crayzy now
+
