@@ -11,3 +11,5 @@ I changed and try to commit without pull first
 
 I crayzy now
 
+[A] I change this also
+
